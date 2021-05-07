@@ -399,7 +399,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/ps66dev\/KompZe-Berlin\/blob\/master\/BDG_Kompetenzzentrum_Modell.jpg"
+                 "value":"https:\/\/ps66dev.github.io\/KompZe-Berlin\/"
                 }],
          "type":"tilelayer",
          "visible":true,
