@@ -379,7 +379,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"Bauplan.html"
+                 "value":"https:\/\/www.google.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
