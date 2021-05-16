@@ -379,7 +379,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ps66dev.github.io\/KompZe-Berlin\/Bauplan.html"
+                 "value":"Bauplan.html"
                 }],
          "type":"tilelayer",
          "visible":true,
