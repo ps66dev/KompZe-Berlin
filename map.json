@@ -379,7 +379,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ps66dev.github.io\/KompZe-Berlin\/"
+                 "value":"https:\/\/ps66dev.github.io\/KompZe-Berlin\/Bauplan.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -399,7 +399,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ps66dev.github.io\/KompZe-Berlin\/tempBDG\/"
+                 "value":"https:\/\/ps66dev.github.io\/KompZe-Berlin\/tempBDG.html"
                 }],
          "type":"tilelayer",
          "visible":true,
